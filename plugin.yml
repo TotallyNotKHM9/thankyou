@@ -1,0 +1,21 @@
+  
+#Name of your Plugin.
+name: ExamplePlugin
+#The API of the latest PMMP.
+api:
+ - 3.3 0
+ - 3.0.0
+ - 4.0.0
+#Where the main is at.
+main: thankyou\main
+#The version of your plugin.
+version: 1.0.0
+#description of your Plugin.
+description: Thank you Plugin for Pocketmine
+#Author of the plugin.
+author: KHM9
+
+#the Commands.
+commands:
+  thankyou:
+    description: Example Command
